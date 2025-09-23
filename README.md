@@ -25,11 +25,11 @@ Some things I enjoy working on/with:
 
 ## ✍️ Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Multiplexing devcontainers with WezTerm](https://www.simonho.ca/posts/multiplex-devcontainers)
 - [Asking an AI to Write a Blog Post About How to Ask an AI to Write a Blog Post](https://www.simonho.ca/posts/ai-blog-post)
 - [Webcam Eye Tracker: Eye tracking in video games](https://www.simonho.ca/posts/webcam-video-games)
 - [Webcam Eye Tracker: Deep Learning with PyTorch](https://www.simonho.ca/posts/webcam-pytorch-model)
 - [Webcam Eye Tracker: Data collection of screen coordinates](https://www.simonho.ca/posts/webcam-data-collection)
-- [Webcam Eye Tracker: Webcam features and face detection](https://www.simonho.ca/posts/webcam-face-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Technologies
