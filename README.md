@@ -23,6 +23,10 @@ Some things I enjoy working on/with:
 * 🔷 LinkedIn: [https://linkedin.com/in/simon-ho](https://linkedin.com/in/simon-ho)
 * 🔶 Stack Overflow: [https://stackoverflow.com/users/2605604](https://stackoverflow.com/users/2605604)
 
+## 🚀 Projects
+* Resume Lab: [resumelab.dev](https://www.resumelab.dev)
+* RoK Talents: [roktalents.com](https://www.roktalents.com)
+
 ## ✍️ Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Multiplexing devcontainers with WezTerm](https://www.simonho.ca/posts/multiplex-devcontainers)
