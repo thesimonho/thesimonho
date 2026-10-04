@@ -24,7 +24,7 @@ Some things I enjoy working on/with:
 * 🔶 Stack Overflow: [https://stackoverflow.com/users/2605604](https://stackoverflow.com/users/2605604)
 
 ## 🚀 Projects
-* Resume Lab: [resumelab.dev](https://www.resumelab.dev)
+* Parcel: [workinparcel.com](https://workinparcel.com)
 * RoK Talents: [roktalents.com](https://www.roktalents.com)
 
 ## ✍️ Recent Blog Posts 
